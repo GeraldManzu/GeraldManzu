@@ -1,10 +1,9 @@
 
-## Manzu Gerald over here: I'm a web developer currently learning Machine Learning and Data Science. 
-### When I'm not next to a computer screen, I'm perhaps running while listening to either country music or a podcast. I'm
+## Hey👋! Manzu Gerald over here: I'm a web developer currently learning Machine Learning and Data Science. 
+### Fun fact⚡: When I'm not next to a computer screen, I'm perhaps running while listening to either country music or a podcast. I'm
 1. Passionate about the web, data science and machine learning
 2. A full stack web developer - Python, Django, JavaScript, React
 3. Running a Techstartup: JunubHost (https://junubhost.com) - Domain Names, Web/App hosting/Development, SSL Certificates
-4. Student on the track of knowlege
 ## 🌐 Socials: Find me on Twitter!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahnzu) 
 On Twitter, I collect Data for Natural Language Processing (NLP). You can follow the account of the bot I coded to collect the data via https://twitter.com/junub_bot
@@ -15,6 +14,7 @@ On Twitter, I collect Data for Natural Language Processing (NLP). You can follow
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GeraldManzu&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫Reach me on: manzugerald@gmail.com
 
   ## 💰 I love coffee and wouldn't hesitate getting a cup from you, LOL
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/manzugerald?country.x=JP&locale.x=en_US) 
