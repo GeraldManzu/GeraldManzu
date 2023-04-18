@@ -1,5 +1,6 @@
 
 ## Hey👋! Manzu Gerald over here: I'm a web developer currently learning Machine Learning and Data Science. 
+### I'm outgoing and engaging but INTROVERTED. I love nature, being in the woods and the sounds of a burbling stream when everything else is quiet!
 ### Fun fact⚡: When I'm not next to a computer screen, I'm perhaps running while listening to either country music or a podcast. I'm
 1. Passionate about the web, data science and machine learning
 2. A full stack web developer - Python, Django, JavaScript, React
