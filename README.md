@@ -1,5 +1,6 @@
 
-## Manzu Gerald over here: I'm
+## Manzu Gerald over here: I'm a web developer currently learning Machine Learning and Data Science. 
+### When I'm not next to a computer screen, I'm perhaps running while listening to either country music or a podcast. I'm
 1. Passionate about the web, data science and machine learning
 2. A full stack web developer - Python, Django, JavaScript, React
 3. Running a Techstartup: JunubHost (https://junubhost.com) - Domain Names, Web/App hosting/Development, SSL Certificates
