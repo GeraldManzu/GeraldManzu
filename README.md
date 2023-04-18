@@ -1,4 +1,5 @@
 
+## ![image](https://user-images.githubusercontent.com/105871031/232779991-0c71e5d1-b991-4412-8451-14822b712e55.png) Socials:
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahnzu) 
 
